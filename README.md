@@ -13,3 +13,5 @@ This project implements a sophisticated AI chatbot using the Gemini language mod
 - **LangChain:** Framework for managing language models
 - **MongoDB:** NoSQL database
 - **Python:** Programming language
+
+![chatbot](https://github.com/user-attachments/assets/61e2a12a-0e82-42fd-83f1-a09ea5d27f84)
